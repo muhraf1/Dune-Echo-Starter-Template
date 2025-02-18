@@ -3,8 +3,6 @@ import { gql } from 'apollo-server-express';
 
   const typeDefs = gql`
 
-
-
 type TokenLogo {
   logo: String
   symbol: String
@@ -55,7 +53,6 @@ type SolanaWalletHolding {
 
 type Query {
   duneWalletHoldings(address: String!): [DuneBalance]
-  fetchTokenLogo(symbol: String!): TokenLogo
   duneSolanaWalletHoldings(address: String!):[SolanaWalletHolding]
 }
 
