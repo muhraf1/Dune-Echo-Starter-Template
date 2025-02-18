@@ -39,14 +39,7 @@ Follow the steps below to set up and run the application:
    ```bash
    cd  Dune_Echo
    ```
-
-2. **Install back-end dependencies:**
-
-   ```bash
-   npm install
-   ```
-
-3. **Start the back-end server:**
+2. **Start the back-end server:**
 
    ```bash
    npm run start
