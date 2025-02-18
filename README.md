@@ -68,4 +68,4 @@ Follow the steps below to set up and run the application:
 
   This will allow the application to authenticate requests to the Dune Echo API.
 
-For more information on Dune Echo and its capabilities, refer to the [Dune API Overview](https://docs.dune.com/api-reference/overview/introduction). 
+For more information on Dune Echo and its capabilities, refer to the [Dune API Overview](https://docs.dune.com/echo/overview). 
