@@ -17,7 +17,7 @@ Follow the steps below to set up and run the application:
 2. **Navigate to the project directory:**
 
    ```bash
-   cd Dune-Echo-Starter-Template
+   cd Dune_Echo
    ```
 
 3. **Install the required dependencies:**
@@ -37,7 +37,7 @@ Follow the steps below to set up and run the application:
 1. **Open a new terminal and navigate to the same project directory:**
 
    ```bash
-   cd Dune-Echo-Starter-Template
+   cd  Dune_Echo
    ```
 
 2. **Install back-end dependencies:**
